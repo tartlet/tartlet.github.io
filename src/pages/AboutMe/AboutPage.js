@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import TypingComponent from './AboutMeTyping.js';
 import './aboutme.css';
 import myProfilePicture from './../../assets/jingsi.jpg';
-import myResume from './../../assets/files/Jingsi_UpdatedResume_May2023.pdf';
+import myResume from './../../assets/files/Jingsi Zhou — Resume.pdf';
 
 const AboutPage = () => {
   const [typingComplete, setTypingComplete] = useState(false);
